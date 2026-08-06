@@ -1809,10 +1809,6 @@ MyApp
 ```
 
 ### 3.5 Screenshot ของ AI Chat App
-
-```
-[แนบ Screenshot ของ Gemini AI Chat ที่ทำงานได้]
-```
 1. `สวัสดี ฉันเป็นนักศึกษา Flutter มือใหม่`
 <img width="1440" height="900" alt="ภาพถ่ายหน้าจอ 2569-08-07 เวลา 00 54 24" src="https://github.com/user-attachments/assets/2cd84be3-6b32-4ec4-9dbb-a9d2bd6e355a" />
 
